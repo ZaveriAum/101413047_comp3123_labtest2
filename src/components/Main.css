@@ -1,0 +1,31 @@
+body {
+    background-color: #ffcfe0;
+    color: #2a3335;
+    font-family: Arial, sans-serif;
+  }
+  
+  .main-container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .weather-card {
+    background-color: #0a97b0;
+    color: white;
+    border: 1px solid #0a5eb0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .weather-card img {
+    max-width: 80px;
+  }
+  
+  .btn-primary {
+    background-color: #0a5eb0;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0a97b0;
+  }
+  
